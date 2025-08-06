@@ -1,0 +1,9 @@
+.app {
+  min-height: 100vh;
+  background: url("https://images.unsplash.com/photo-1661705969607-cde73828023d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhY2UlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
